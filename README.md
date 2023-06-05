@@ -1,6 +1,4 @@
-## This repository was forked and was used for the development of MVP in MHP Mobility Hackathon.
-
-### Original Source: https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control
+##### Original Source: https://github.com/AndreaVidali/Deep-QLearning-Agent-for-Traffic-Signal-Control
 *Please follow the tutorial guidelines on his github repository.*
 
 <img src="https://www.dtekcustoms.com/wp-content/uploads/2021/02/s2.jpg" alt="drawing" width="350"/>
